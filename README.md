@@ -2,7 +2,7 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
+I saw [other developers doing AMAs](https://github.com/sindresorhus/amas), and I figured why not! I also wanted to add a little more transparency to my online presence. So ask me anything, and I'll do my answer it in a timely fashion.
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
